@@ -1,6 +1,8 @@
 # Bachelor of Cyber Security
 
+<p align="center">
 <img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/Uni_Tasks/main/Images/header.jpg"> 
+</p>
 
 <!-- Repo Stats -->
 <p align="center">
@@ -56,7 +58,8 @@ As a graduate of this degree you’ll be eligible for professional recognition w
 |  SIT302   | Project Delivery                                       | CORE     | &cross; |            |
 |  SIT210   | Embedded Systems Development                           | ELECTIVE | &check; | CREDIT     |
 |           | Elective TBD                                           | ELECTIVE | &cross; |            |
-
+|           |                                                        |          |         |            |
+|           |                                                        |Total Completed |   | 17/24      |
 ---
 
 ## Course rules
