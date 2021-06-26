@@ -40,22 +40,22 @@ As a graduate of this degree you’ll be eligible for professional recognition w
 |  SIT102   | Introduction to Programming                            | CORE     | :heavy_check_mark: | RPL        |
 |  SIT123   | Data Capture Technologies                              | ELECTIVE | :heavy_check_mark: | CREDIT     |
 |           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | :heavy_check_mark: | RPL        |
-|  SIT223   | Professional Practice in a Digital World               | CORE     | :white_check_mark: |            |
+|  SIT223   | Professional Practice in a Digital World               | CORE     | :black_square_button: |            |
 |  SIT192   | Discrete Mathmatics                                    | CORE     | :heavy_check_mark: | PASS       |
 |  SIT232   | Object Oriented Development                            | ELECTIVE | :heavy_check_mark: | CREDIT     |
 |           | UNIT OF STUDY FROM A SECOND YEAR UNDERGRADUATE PROGRAM | ELECTIVE | :heavy_check_mark: | RPL        |
 |  SIT210   | Networks and Communications                            | CORE     | :heavy_check_mark: | PASS       |
 |  SIT282   | Computer Crime and Digital Forensics                   | CORE     | :heavy_check_mark: | PASS       |
 |  SIT284   | Cyber Security Managment                               | CORE     | :heavy_check_mark: | PASS       |
-|  SIT281   | Cryptography                                           | CORE     | :white_check_mark: |            |
+|  SIT281   | Cryptography                                           | CORE     | :black_square_button: |            |
 |  SIT384   | Data Analytics for Cyber Security                      | CORE     | :heavy_check_mark: | DISTINCTION|
 |  SIT379   | Ethical Hacking                                        | CORE     | :heavy_check_mark: | CREDIT     |
-|  SIT 374  | Project Design                                         | CORE     | :white_check_mark: |            |
-|  SIT382   | System Security                                        | CORE     | :white_check_mark: |            |
-|  SIT306   | IT Placement                                           | CORE     | :white_check_mark: |            |
-|  SIT302   | Project Delivery                                       | CORE     | :white_check_mark: |            |
+|  SIT 374  | Project Design                                         | CORE     | :black_square_button: |            |
+|  SIT382   | System Security                                        | CORE     | :black_square_button: |            |
+|  SIT306   | IT Placement                                           | CORE     | :black_square_button: |            |
+|  SIT302   | Project Delivery                                       | CORE     | :black_square_button: |            |
 |  SIT210   | Embedded Systems Development                           | ELECTIVE | :heavy_check_mark: | CREDIT     |
-|           | Elective TBD                                           | ELECTIVE | :white_check_mark: |            |
+|           | Elective TBD                                           | ELECTIVE | :black_square_button: |            |
 
 ---
 
