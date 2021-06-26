@@ -30,32 +30,32 @@ As a graduate of this degree you’ll be eligible for professional recognition w
 ---
 
 ## Course Progression
-| Unit Code | Unit Name                                              | Type     | Status | Mark       |
-|-----------|--------------------------------------------------------|----------|:------:|-----------:|
+| Unit Code | Unit Name                                              | Type     | Status | Mark                   |
+|:---------:|--------------------------------------------------------|---------:|:------:|-----------------------:|
 |  SIT124   | Exploring IT                                           | CORE     | :heavy_check_mark: | RPL        |
-|  SIT105   | Thinking Technology and Design                         | CORE     | [X]    | RPL        |
-|  SIT182   | Real World Practices for Cyber Security                | CORE     | [X]    | PASS       |
-|           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | [X]    | RPL        |
-|  SIT103   | Data nd Information Managment                          | CORE     | [X]    | RPL        |
-|  SIT102   | Introduction to Programming                            | CORE     | [X]    | RPL        |
-|  SIT123   | Data Capture Technologies                              | ELECTIVE | [X]    | CREDIT     |
-|           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | [X]    | RPL        |
-|  SIT223   | Professional Practice in a Digital World               | CORE     | [ ]    |            |
-|  SIT192   | Discrete Mathmatics                                    | CORE     | [X]    | PASS       |
-|  SIT232   | Object Oriented Development                            | ELECTIVE | [X]    | CREDIT     |
-|           | UNIT OF STUDY FROM A SECOND YEAR UNDERGRADUATE PROGRAM | ELECTIVE | [X]    | RPL        |
-|  SIT210   | Networks and Communications                            | CORE     | [X]    | PASS       |
-|  SIT282   | Computer Crime and Digital Forensics                   | CORE     | [X]    | PASS       |
-|  SIT284   | Cyber Security Managment                               | CORE     | [X]    | PASS       |
-|  SIT281   | Cryptography                                           | CORE     | [ ]    |            |
-|  SIT384   | Data Analytics for Cyber Security                      | CORE     | [X]    | DISTINCTION|
-|  SIT379   | Ethical Hacking                                        | CORE     | [X]    | CREDIT     |
-|  SIT 374  | Project Design                                         | CORE     | [ ]    |            |
-|  SIT382   | System Security                                        | CORE     | [ ]    |            |
-|  SIT306   | IT Placement                                           | CORE     | [ ]    |            |
-|  SIT302   | Project Delivery                                       | CORE     | [ ]    |            |
-|  SIT210   | Embedded Systems Development                           | ELECTIVE | [X]    | CREDIT     |
-|           | Elective TBD                                           | ELECTIVE | [ ]    |            |
+|  SIT105   | Thinking Technology and Design                         | CORE     | :heavy_check_mark: | RPL        |
+|  SIT182   | Real World Practices for Cyber Security                | CORE     | :heavy_check_mark: | PASS       |
+|           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | :heavy_check_mark: | RPL        |
+|  SIT103   | Data nd Information Managment                          | CORE     | :heavy_check_mark: | RPL        |
+|  SIT102   | Introduction to Programming                            | CORE     | :heavy_check_mark: | RPL        |
+|  SIT123   | Data Capture Technologies                              | ELECTIVE | :heavy_check_mark: | CREDIT     |
+|           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | :heavy_check_mark: | RPL        |
+|  SIT223   | Professional Practice in a Digital World               | CORE     | :white_check_mark: |            |
+|  SIT192   | Discrete Mathmatics                                    | CORE     | :heavy_check_mark: | PASS       |
+|  SIT232   | Object Oriented Development                            | ELECTIVE | :heavy_check_mark: | CREDIT     |
+|           | UNIT OF STUDY FROM A SECOND YEAR UNDERGRADUATE PROGRAM | ELECTIVE | :heavy_check_mark: | RPL        |
+|  SIT210   | Networks and Communications                            | CORE     | :heavy_check_mark: | PASS       |
+|  SIT282   | Computer Crime and Digital Forensics                   | CORE     | :heavy_check_mark: | PASS       |
+|  SIT284   | Cyber Security Managment                               | CORE     | :heavy_check_mark: | PASS       |
+|  SIT281   | Cryptography                                           | CORE     | :white_check_mark: |            |
+|  SIT384   | Data Analytics for Cyber Security                      | CORE     | :heavy_check_mark: | DISTINCTION|
+|  SIT379   | Ethical Hacking                                        | CORE     | :heavy_check_mark: | CREDIT     |
+|  SIT 374  | Project Design                                         | CORE     | :white_check_mark: |            |
+|  SIT382   | System Security                                        | CORE     | :white_check_mark: |            |
+|  SIT306   | IT Placement                                           | CORE     | :white_check_mark: |            |
+|  SIT302   | Project Delivery                                       | CORE     | :white_check_mark: |            |
+|  SIT210   | Embedded Systems Development                           | ELECTIVE | :heavy_check_mark: | CREDIT     |
+|           | Elective TBD                                           | ELECTIVE | :white_check_mark: |            |
 
 ---
 
