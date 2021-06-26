@@ -19,7 +19,7 @@ Deakin’s Bachelor of Cyber Security provides a solid foundation of the cyber s
 Whether it’s keeping in touch with friends on social networks, paying bills online, or using water or electricity, we depend on secure networked systems to keep our confidential information safe and rely on the assurance provided by custodians of this information to carry out activities in our day-to-day lives. Governments, military, financial institutions, hospitals and other businesses are all facing an unprecedented sophistication of cyber-attacks and there is a shortage of people with the skills and capability needed to ensure security in cyberspace.
 <br><br>
 This course will teach you how to identify, diagnose, analyse and manage the challenges of Cyber security. You’ll cover areas such as computer crime and digital forensics, evaluating software for security vulnerabilities, designing secure databases, securing operating systems, assessing and reinforcing the security of websites, integrating security requirements into new developments, designing secure network architectures, performing risk assessments and responding to cyber security incidents.
-<br><br<>>
+<br><br<>
 Classes use specialised software to enable practice of real world cyber-attack and response scenarios. You’ll consequently get the chance to reflect on the need for cyber security in a working environment, and the various solutions that might apply. The degree focuses on technical elements and sets you up with strong skills in critical thinking and problem solving. You’ll be able to apply your learning in the workplace, and capably deal with imminent threats and challenges from the digital space where interconnected vehicles, drones, smart home gadgets, mobile and wearable devices, and health-kits prosper.
 <br><br>
 The course will help you develop strong interpersonal skills and a capacity for team-work. You’ll also build your written and oral communications skills, which means that you’ll graduate as a qualified and highly employable IT professional. Career options include work as a security analyst, project manager, security system manager, cryptographer, business analyst, consultant, security system developer or programmer, information security auditor, law enforcement personnel or IT security engineer. An honours year is available for high-achieving students upon completion of this degree.
@@ -32,7 +32,7 @@ As a graduate of this degree you’ll be eligible for professional recognition w
 ## Course Progression
 | Unit Code | Unit Name                                              | Type     | Status | Mark       |
 |-----------|--------------------------------------------------------|----------|:------:|-----------:|
-|  SIT124   | Exploring IT                                           | CORE     | [X]    | RPL        |
+|  SIT124   | Exploring IT                                           | CORE     | :heavy_check_mark: | RPL        |
 |  SIT105   | Thinking Technology and Design                         | CORE     | [X]    | RPL        |
 |  SIT182   | Real World Practices for Cyber Security                | CORE     | [X]    | PASS       |
 |           | UNIT OF STUDY FROM A FIRST YEAR UNDERGRADUATE PROGRAM  | ELECTIVE | [X]    | RPL        |
@@ -91,12 +91,14 @@ The course comprises a total of 24 credit points, which must include the followi
 ---
 
 ## Licencing 
+<p align="justify">
 © Justin Bland & Deakin University; 2021
-
+<br><br>
 Except as permitted by the copyright law applicable to you, you may not reproduce or communicate any of the content on this website, including files downloadable from this website, without the permission of the copyright owner.
-
+<br><br>
 The Australian Copyright Act allows certain uses of content from the internet without the copyright owner’s permission. This includes uses by educational institutions and by Commonwealth and State governments, provided fair compensation is paid. For more information, see www.copyright.com.au and www.copyright.org.au.
-
+<br><br>
 The owners of copyright in the content on this website may receive compensation for the use of their content by educational institutions and governments, including from licensing schemes managed by Copyright Agency.
-
+<br><br>
 We may change these terms of use from time to time. Check before re-using any content from this website.
+</p>
